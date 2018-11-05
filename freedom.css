@@ -1,0 +1,15 @@
+/*General Style*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url(assets/freedom.jpg);
+}
+
+.wrapper {
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
